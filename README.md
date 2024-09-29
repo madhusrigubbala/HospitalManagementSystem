@@ -1,5 +1,6 @@
 Hospital management system 
 console project
+
 • Developed a Java based hospital management system, implementing patient 
 registration, appointment scheduling, and doctor availability using a MySQL 
 database.
